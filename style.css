@@ -1,5 +1,7 @@
-.fundo{
-    color: red;
+
+
+.fundo {
+    
     background-color: hsl(212, 45%, 89%);
-    image-resolution: 1440px;
+    padding-bottom: 1440px;
 }
