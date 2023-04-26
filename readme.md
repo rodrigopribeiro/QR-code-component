@@ -1,2 +1,2 @@
-Criar projeto QR Code
+Criar projeto QR Code;
 [ ] criar background
